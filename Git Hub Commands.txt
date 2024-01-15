@@ -1,0 +1,22 @@
+So, good creative thinking and I'm a quick learner,i would be first in the line if there is a requirement to learn new things or new technologies and I have keen eye for detail
+
+
+
+I'm afraid of making mistakes and I over think it and at present I'm working on myself to overcome the overthinking.
+
+GitHub is like google drive
+
+Phases:1.Working area 2.Staging area 3.Local Repository 4. Central Github
+
+command: 
+* git add file file1
+* for 100 files we have command git add. or git add*
+* git status -red(working phase) -green(staging phase)
+* git commit-m
+* git log (is like history which developer pushes which code)
+* 
+
+COMMANDs;
+1.ls-listing files
+2. touch yogi[creating a file used command touch] for multiple files touch yogi yogi1
+3.
